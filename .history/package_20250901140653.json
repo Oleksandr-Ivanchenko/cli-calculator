@@ -1,0 +1,32 @@
+{
+  "name": "cli-calculator",
+  "version": "1.0.0",
+  "main": "main.js",
+  "bin": {
+    {
+  "name": "cli-calculator",
+  "version": "1.0.0",
+  "main": "main.js",
+  "bin":,
+  "calc": "./CLICalculator.js"
+
+
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}
+
+  }
+  "calc": "./CLICalculator.js"
+
+
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}

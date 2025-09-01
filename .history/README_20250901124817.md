@@ -1,0 +1,2 @@
+# cli-calculator
+A simple calculator that runs via the command line. Supports basic arithmetic operations: addition, subtraction, multiplication and division. Implemented with a focus on clean architecture, modularity and error handling.
